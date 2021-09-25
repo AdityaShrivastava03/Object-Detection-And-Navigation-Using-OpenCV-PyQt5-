@@ -3,7 +3,7 @@
 # Created On: 18-04-2021  Version V1.0
 # Author: Aditya Shrivastava
 # GitHub ID: AdityaShrivastava03
-# Run command "pip install opencv"  to install serial
+# Run command "pip install opencv"  to install opencv
 # Run command "pip install pyqt5" to install pyqt5
 # Application tested successfully on Web Cam and IP Cam.
 ########################################################################################################################
